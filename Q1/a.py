@@ -1,5 +1,3 @@
-from scipy import stats
-
 numero_palavras_chaves = [1,2,4,8,16]
 tempo_decorrido = [0.75,0.70,0.80,1.28,1.60]
 
